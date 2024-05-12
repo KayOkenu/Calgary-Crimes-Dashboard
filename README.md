@@ -9,5 +9,5 @@ This repository contains the link to the dashboard for a recent Tableau project.
  4. Yearly crime trends
  5. Crime trends over time
 
-    If you have any contributions or corrections, please feel free to comment!
+The actual dataset file has been enclosed above. Please feel free to use. If you have any contributions or corrections, feel free to comment as well!
     
